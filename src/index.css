@@ -1,5 +1,23 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  margin: 10px;
+  background-color: snow;
 }
+
+.inner-container {
+  height: 550px;
+  width: 800px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 40px;
+}
+
+.fun-text {
+  background-image: url("http://maxpixel.freegreatpicture.com/static/photo/640/Texture-Black-Abstract-Stone-Background-Dark-2362253.jpg");
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: black;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+/*# sourceMappingURL=index.css.map */
